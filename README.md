@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**GuneyYilmaz0/GuneyYilmaz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### How to reach me
+ - You can contact to me through discord
+ - My Discord tag is  Güney#0001
+ - My Discord user id 980105120970846278
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Project I have worked on
+
+ - [Hashcube Network](https://www.hashcubenw.com)
+ - BMO Discord Bot (Currently private)
+ - Puzzle's Discord Bot (Currently private)
+ 
+
+### My personal infos
+ - I am Güney Yılmaz (He/Him), 18 years old mostly Minecraft Bedrock Edition plugin developer.
+ - I am still a student in High School in Turkey.
+ - Language I mostly use: Java.
+ - I've been coding for 2.5 years. 
