@@ -9,7 +9,7 @@
 
 ### Project I have worked on
 
- - [Hashcube Network](https://www.hashcubenw.com)
+ - [HashCube Network](https://www.hashcubenw.com)
  - BMO Discord Bot (Currently private)
  - Puzzle's Discord Bot (Currently private)
  
